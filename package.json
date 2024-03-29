@@ -1,6 +1,6 @@
 {
   "name": "usedsa",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Use all your favorite data structure and alogritm with the help of this package.",
   "main": "index.js",
   "scripts": {
